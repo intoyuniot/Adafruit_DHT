@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_DHT",
+    "version": "1.0.0",
+    "keywords": "DHT11, DHT22, DHT21, AM2301",
+    "description": "DHT11/21/22和AM2301温湿度传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_DHT.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
